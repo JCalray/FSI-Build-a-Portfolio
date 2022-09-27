@@ -2,12 +2,15 @@ body {
     background-color: #9ABCE3;
     text-align: center;
 }
-h1 {color: #6B6B6C}
+h1 {color: #6B6B6C
+    border: 1px solid black;
+}
+
 
 #patlabor {
     border: 10px #40434E
 }
 .my-interests {
-    background-color: #9ABCE3;
-    border: #40434E;
+    height: 20px;
+    border: 1px solid black;
 }
