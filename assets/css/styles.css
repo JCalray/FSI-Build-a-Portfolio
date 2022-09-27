@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 h1 {color: #6B6B6C
-    border: 1px solid black;
+    border: 5px dotted  #e3c19a;
 }
 
 
@@ -14,3 +14,8 @@ h1 {color: #6B6B6C
     height: 20px;
     border: 1px solid black;
 }
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+hr {color:#e3c19a}
